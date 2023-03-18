@@ -15,8 +15,6 @@
 int main(void)
 {
 	int i;
-
-	
 	/* your code goes there */
 	for (i = 97; i < 122; i++)
 	{
