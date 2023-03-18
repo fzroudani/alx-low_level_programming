@@ -21,7 +21,7 @@ int main(void)
 	{
 		putchar(i);
 	}
-
+	for (i = 97; i <= 102; i++)
 	{
 		putchar(i);
 	}
